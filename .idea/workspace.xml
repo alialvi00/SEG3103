@@ -106,6 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.AtmMachineTest" />
+      <item itemvalue="JUnit.AtmMachineTest.changePin_PinChanges" />
+      <item itemvalue="JUnit.AtmMachineTest.whenDepositMoney_BalanceGoesUp" />
+      <item itemvalue="JUnit.AtmMachineTest.whenWithdrawMoney_BalanceGoesDown" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.AtmMachineTest.whenWithdrawMoney_BalanceGoesDown" />

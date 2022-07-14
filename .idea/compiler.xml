@@ -9,6 +9,8 @@
         <module name="assy2_benchMark" />
         <module name="Assy5_EasyMock (1)" />
         <module name="Assy5_EasyMock" />
+        <module name="assy4_MutationTesting (1)" />
+        <module name="assy4_MutationTesting" />
       </profile>
     </annotationProcessing>
   </component>
