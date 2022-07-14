@@ -1,0 +1,15 @@
+META-INF/CompilerHints
+Assy2/SimpleBenchmark$SumParams.class
+BenchmarkRunner.class
+Assy2/SimpleBenchmark.class
+Assy2/jmh_generated/SimpleBenchmark_jmhType.class
+Assy2/jmh_generated/SimpleBenchmark_SumParams_jmhType_B2.class
+Assy2/jmh_generated/SimpleBenchmark_SumParams_jmhType_B1.class
+Assy2/jmh_generated/SimpleBenchmark_jmhType_B3.class
+Assy2/jmh_generated/SimpleBenchmark_SumParams_jmhType.class
+Assy2/jmh_generated/SimpleBenchmark_sumArrayStream_jmhTest.class
+Assy2/jmh_generated/SimpleBenchmark_jmhType_B2.class
+META-INF/BenchmarkList
+Assy2/jmh_generated/SimpleBenchmark_forEachSum_jmhTest.class
+Assy2/jmh_generated/SimpleBenchmark_jmhType_B1.class
+Assy2/jmh_generated/SimpleBenchmark_SumParams_jmhType_B3.class
