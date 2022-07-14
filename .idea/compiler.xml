@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="assy2_benchMark" />
+        <module name="Assy5_EasyMock (1)" />
+        <module name="Assy5_EasyMock" />
       </profile>
     </annotationProcessing>
   </component>
